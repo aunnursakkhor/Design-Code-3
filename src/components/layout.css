@@ -12,3 +12,36 @@ a {
   text-decoration: none;
   font-weight: 600;
 }
+
+.Hero {
+  background: url('../images/wallpaper3.jpg');
+  height: 920px;
+  background-size: cover;
+  background-position: center;
+}
+
+.HeroGroup {
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  padding: 150px 50px;
+}
+
+.Hero h1 {
+  margin: 0;
+  color: #fff;
+  font-size: 60px;
+  line-height: 1.2;
+}
+
+.Hero p {
+  color: rgba(255, 555, 255, 0.8);
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+.Hero a {
+  font-size: 17px;
+  color: #fff;
+  text-transform: uppercase;
+}
